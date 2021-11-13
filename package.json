@@ -1,0 +1,29 @@
+{
+  "name": "express-route-example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/atillakurtulussimsek/express-route-example.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/atillakurtulussimsek/express-route-example/issues"
+  },
+  "homepage": "https://github.com/atillakurtulussimsek/express-route-example#readme",
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "cookie-parser": "^1.4.5",
+    "express": "^4.17.1",
+    "express-session": "^1.17.2",
+    "moment-timezone": "^0.5.34",
+    "mongoose": "^6.0.12",
+    "morgan": "^1.10.0",
+    "path": "^0.12.7"
+  }
+}
